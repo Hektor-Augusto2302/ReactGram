@@ -1,21 +1,19 @@
 Descrição
-ReactGram é uma aplicação web inspirada no Instagram, desenvolvida usando Node.js para o backend e React.js para o frontend. Ele permite aos usuários postar fotos, curtir publicações, comentar, editar perfis, fazer login e registrar-se.
-Funcionalidades
-Registro de usuário e login com autenticação
-Postagem de fotos
-Curtidas em publicações
-Comentários em publicações
-Edição e exclusão de postagens
-Edição de perfil de usuário
+ReactGram é uma plataforma de compartilhamento de fotos inspirada no Instagram. Este projeto desafiador e produtivo proporcionou aprendizados significativos no desenvolvimento full-stack, destacando o potencial e os desafios do Node.js e do React.js.
+
 Tecnologias Utilizadas
-Node.js
-Express
-Express Validator
+O projeto foi desenvolvido com as seguintes tecnologias:
+
 MongoDB
+Express.js
 React.js
-React Redux
-React Icons
-React Router Dom
-Hooks do React
+Node.js
+Funcionalidades
+Autenticação: Implementação de um sistema de autenticação seguro.
+Postagem de Fotos: Os usuários podem postar fotos para compartilhar com outros usuários.
+Curtidas e Comentários: Recursos para curtir e comentar nas fotos de outros usuários.
+Edição e Exclusão de Postagens: Funcionalidades que permitem aos usuários gerenciar suas próprias postagens.
+Sistema de Validações: Implementação de validações para garantir a integridade dos dados e a segurança do sistema.
+
 Autor
 Hektor Augusto Soares Silva
